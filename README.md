@@ -1,11 +1,3 @@
-<h3 align="center">About me</h3>
-
-###
-
-<p align="center">• Systems analysis and development student - Pitágoras.<br>• Game developer in C# at Unity.<br>• Co-founder of Wild Bunny.</p>
-
-###
-
 <h3 align="center">Stats</h3>
 
 ###
@@ -48,5 +40,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="center">About me</h3>
+
+###
+
+<p align="center">• Systems analysis and development student - Pitágoras.<br>• Game developer in C# at Unity.<br>• Co-founder of Wild Bunny.</p>
 
 ###
